@@ -1,0 +1,27 @@
+.heading{
+    background-color:orange;
+    padding: 8px;
+    border-radius: 15px;
+    color:white;
+    font-family:'Courier New',
+}
+.resume{
+    background-color:mediumaquamarine;
+    background-size: cover;
+    padding:8px;
+}
+#skills{
+    color:purple;
+}
+.book{
+    background-color:paleturquoise;
+    border-radius: 8px;
+    padding: 20px;
+}
+.card{
+    background-color:lemonchiffon;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 8px;
+    
+}
